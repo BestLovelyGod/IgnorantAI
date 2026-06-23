@@ -3,3 +3,5 @@
 基于 Windows + DotNet 的可迭代Agent核心：https://github.com/BestLovelyGod/Agent.Core
 基于 Windows + DotNet 的存储引擎：https://github.com/BestLovelyGod/QuantumCore
 基于 Windows + DotNet 的知识库管理模块：https://github.com/BestLovelyGod/PaperCore
+基于 Windows + DotNet 的可定制化Agent实例：https://github.com/BestLovelyGod/VegaAgent
+以上内容基于小米mimo开放平台进行验证开发
